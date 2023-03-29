@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Ouiz\obj\Debug\net6.0\Ouiz.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Ouiz\obj\Debug\net6.0\Ouiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Ouiz\obj\Debug\net6.0\Ouiz.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Ouiz\obj\Debug\net6.0\Ouiz.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Ouiz\obj\Debug\net6.0\Ouiz.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Ouiz\bin\Debug\net6.0\Ouiz.exe
+C:\Users\Administrator\Desktop\Ouiz\bin\Debug\net6.0\Ouiz.deps.json
+C:\Users\Administrator\Desktop\Ouiz\bin\Debug\net6.0\Ouiz.runtimeconfig.json
+C:\Users\Administrator\Desktop\Ouiz\bin\Debug\net6.0\Ouiz.dll
+C:\Users\Administrator\Desktop\Ouiz\bin\Debug\net6.0\Ouiz.pdb
+C:\Users\Administrator\Desktop\Ouiz\obj\Debug\net6.0\Ouiz.dll
+C:\Users\Administrator\Desktop\Ouiz\obj\Debug\net6.0\refint\Ouiz.dll
+C:\Users\Administrator\Desktop\Ouiz\obj\Debug\net6.0\Ouiz.pdb
+C:\Users\Administrator\Desktop\Ouiz\obj\Debug\net6.0\Ouiz.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Ouiz\obj\Debug\net6.0\ref\Ouiz.dll
